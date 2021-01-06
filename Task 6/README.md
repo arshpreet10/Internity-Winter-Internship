@@ -1,4 +1,4 @@
-##Mathematics behind Machine Learning
+# Mathematics behind Machine Learning
 
 Blog Links: 
 
