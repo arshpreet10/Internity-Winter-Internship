@@ -1,4 +1,6 @@
-#Mathematics behind Machine Learning
+##Mathematics behind Machine Learning
+
+Blog Links: 
 
 Linear Algebra
 [Mathematics for Machine Learning - Part I](https://arshpreet-singh.medium.com/mathematics-for-machine-learning-part-i-c2c62b60441a)
